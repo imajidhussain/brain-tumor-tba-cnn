@@ -127,7 +127,7 @@ brain-tumor-tba-cnn/
 
 ### 1. Clone the Repository
 <pre>
-git clone https://github.com/YOUR_USERNAME/brain-tumor-tba-cnn.git
+git clone https://github.com/imajidhussain/brain-tumor-tba-cnn.git
 cd brain-tumor-tba-cnn
 </pre>
 
@@ -137,6 +137,6 @@ pip install -r requirements.txt
 </pre>
 
 ### 3. Run Pipeline
-Open `notebooks/main_pipeline.ipynb` in Google Colab or a local Jupyter environment. The code programmatically clones the target datasets, executes dataset partitioning, performs network training, and exports metric reports automatically.
+Open `notebooks/main_pipeline.ipynb` in Google Colab or a local Jupyter environment. The code programmatically clones the target datasets, executes dataset partitioning, and performs network training.
 
 ---
