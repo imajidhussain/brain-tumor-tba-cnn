@@ -1,7 +1,6 @@
 # Attention-Driven Multi-Branch CNN for Cross-Dataset Brain Tumor Classification
 
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Domain: Medical Imaging](https://img.shields.io/badge/Domain-Medical%20Computer%20Vision-green.svg)]()
 
 ## 📌 Abstract
