@@ -110,7 +110,7 @@ When evaluated on unseen MRI scans from the Figshare dataset, the overall weight
 <pre>
 brain-tumor-tba-cnn/
 ├── notebooks/
-│   └── main_pipeline.ipynb          # End-to-end executable notebook
+│   └── Brain_Tumor_Classification.ipynb          # End-to-end executable notebook
 ├── models/
 │   └── tba_cnn_brain_tumor.pth      # Serialized PyTorch model weights
 ├── results/
